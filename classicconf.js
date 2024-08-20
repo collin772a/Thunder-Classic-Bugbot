@@ -28,7 +28,7 @@ global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'ꪶ༺֎ᚏ༈࿉𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒⧉ᚙ֎⸙༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254723046429'] // ubah aja pake nomor lu
+global.owner = ['254752588323'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
 global.botname = '⫹⸙⧉THUNDER-CLASSIC-BUG⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '⫹⸙⧉THUNDER-CLASSIC-BUG𝐂⧉⸙⫺' // ubah aja ini nama sticker
